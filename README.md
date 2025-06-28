@@ -1,6 +1,7 @@
 ShopEZ: One-Stop Shop for Online Purchases
 👩‍💻 Project by:
-Y. Sai Deekshita (TEAM LEAD) – Frontend Design, Cart Functionality, Integration
+
+Y. Sai Deekshita  – Frontend Design, Cart Functionality, Integration
 
 B. Rupa Sree – Backend Development, API Design
 
