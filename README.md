@@ -49,7 +49,7 @@ Complete checkout process
 
 Stores order details in MongoDB
 
-📊 Dashboard (Optional)
+📊 Dashboard 
 
 Charts for product performance, order statistics (extendable)
 
@@ -81,7 +81,7 @@ ShopEZ/
 bash
 Copy
 Edit
-git clone https://github.com/YourUsername/ShopEZ.git
+git clone https://github.com/Deekshita-5066/ShopEZ.git
 cd ShopEZ
 2️⃣ Set Up Backend
 Prerequisites: Java 17+, Maven, and MongoDB
@@ -104,11 +104,6 @@ Backend: Java Spring Boot
 Database: MongoDB
 
 Tools: Maven, Postman, Git, VS Code
-
-🔗 Demo Video
-🎥 Watch our demo video:
-https://youtu.be/YourDemoVideoLink
-(Replace with your actual video link)
 
 🙏 Acknowledgements
 SmartInternz – Internship support
